@@ -1,0 +1,1 @@
+set-alias -Name "helm"  -value "C:\Users\admin\Downloads\helm-canary-windows-amd64\windows-amd64\helm.exe"
